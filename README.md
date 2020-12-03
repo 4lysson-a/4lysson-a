@@ -1,7 +1,5 @@
 # Hello 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=4ly-a)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=4ly-a&show_icons=true)
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=4ly-a&show_icons=true&theme=tokyonight)
 <!--
 **4ly-a/4ly-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
