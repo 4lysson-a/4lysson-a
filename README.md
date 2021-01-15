@@ -6,8 +6,8 @@
 
 <br/>
 
-<p> Follow me on instagram <p/> 
-<a href=""https://www.instagram.com/4lysson_a/> test <img margin="0px" width="20px" src="https://cdn.iconscout.com/icon/free/png-512/instagram-233-896451.png"/> </a>
+<p margin="0px"> Follow me on instagram <p/> 
+<a href=""https://www.instagram.com/4lysson_a/> <img margin="0px" width="20px" src="https://cdn.iconscout.com/icon/free/png-512/instagram-233-896451.png"/> </a>
 
 <br/>
 
