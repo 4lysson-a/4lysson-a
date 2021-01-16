@@ -1,8 +1,6 @@
 
 # Hii :3 
 
-<img align="center" width="100px" src="./frog.gif" />
-
 <h3 align="left">  
      I am a student in the IT area, with a great focus on the front end, and on design, always looking to improve my skills, learn new frameworks and technologies, currently I am focusing on React js and SASS. 
 </h3>
