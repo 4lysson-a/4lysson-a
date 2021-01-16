@@ -11,7 +11,7 @@
 </a>
 
 <a target="blank" href="https://www.instagram.com/4lysson_a" /> 
-     <img margin="0px" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/instagram-233-896451.png" /> 
+     <img margin="0px" width="40px" src="https://toppng.com/uploads/preview/instagram-icon-png-download-white-logo-free-social-instagram-logo-vector-2017-1156285509326avakqhwk.png" /> 
 </a>
 
 
