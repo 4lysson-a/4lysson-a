@@ -7,15 +7,15 @@
 <br/>
 
 <a target="blank" href="https://www.linkedin.com/in/4lysson/" /> 
-     <img margin="0px" width="40px" src="https://image.flaticon.com/icons/png/512/61/61109.png" /> 
+     <img margin="10px" width="40px" src="https://image.flaticon.com/icons/png/512/61/61109.png" /> 
 </a>
 
 <a target="blank" href="https://www.instagram.com/4lysson_a" /> 
-     <img margin="0px" width="40px" src="https://toppng.com/uploads/preview/instagram-icon-png-download-white-logo-free-social-instagram-logo-vector-2017-1156285509326avakqhwk.png" /> 
+     <img margin="10px" width="40px" src="https://toppng.com/uploads/preview/instagram-icon-png-download-white-logo-free-social-instagram-logo-vector-2017-1156285509326avakqhwk.png" /> 
 </a>
 
 
-<p align="center">
+<p align="left">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ly-a&layout=compact&theme=tokyonight"/>
     <br/> <br/>
   <!--
