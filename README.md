@@ -12,7 +12,7 @@
 </a>
 
 <a target="blank" href="https://www.instagram.com/4lysson_a" /> 
-     <img margin="10px" width="40px" src="https://toppng.com/uploads/preview/instagram-icon-png-download-white-logo-free-social-instagram-logo-vector-2017-1156285509326avakqhwk.png" /> 
+     <img margin="10px" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/87/87390.svg?token=exp=1611684295~hmac=74b1945e805010ec3cfee214439169c3" /> 
 </a>
 
 <br/>
