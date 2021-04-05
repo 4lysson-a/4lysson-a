@@ -1,7 +1,6 @@
 <div align="center">
      <p size="20pt">Heyy</p>
 <img align="center" src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif"/>
-<img align="center" src="https://i.pinimg.com/originals/72/8a/02/728a020d5290efa08d853c061307eb31.gif"/>
 </div>
 <!--
 <h3 align="left">  
