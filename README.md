@@ -1,6 +1,6 @@
-
+<div align="center">
 <img align="center" src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif"/>
-
+</div>
 <!--
 <h3 align="left">  
      I am a student in the IT area, with a great focus on the front end, and on design, always looking to improve my skills, learn new frameworks and technologies, currently I am focusing on React js and SASS. 
