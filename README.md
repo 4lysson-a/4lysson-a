@@ -1,4 +1,6 @@
 
+<img src="https://i.pinimg.com/originals/39/b2/89/39b289eca8b58a99b29423a4078504fe.gif"/>
+
 <!--
 <h3 align="left">  
      I am a student in the IT area, with a great focus on the front end, and on design, always looking to improve my skills, learn new frameworks and technologies, currently I am focusing on React js and SASS. 
@@ -8,6 +10,7 @@
 
 <a target="blank" href="https://www.linkedin.com/in/4lysson/" /> 
      <img margin="10px" width="40px" src="https://image.flaticon.com/icons/png/512/61/61109.png" /> 
+     
 </a>
 
 <a target="blank" href="https://www.instagram.com/4lysson_a" /> 
