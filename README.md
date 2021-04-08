@@ -5,6 +5,6 @@
 
 -->
 
-<span style="display:block;text-align:center" onClick="0">
+<span style="display:block;text-align:center">
 	![pc](./assets/pc.gif)
 </span>
