@@ -4,4 +4,4 @@
 </div>
 
 
-![Profile views](https://gpvc.arturio.dev/[4ly-a])
+![Profile views](https://gpvc.arturio.dev/4ly-a)
