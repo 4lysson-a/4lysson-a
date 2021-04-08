@@ -6,5 +6,6 @@
 -->
 
 <span style="display:block;text-align:center">
-![pc](./assets/pc.gif)
+![pc](assets/pc.gif)
 </span>
+
