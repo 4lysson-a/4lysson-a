@@ -6,5 +6,5 @@
 -->
 
 <span style="display:block;text-align:center" onClick="0">
-	![pc](./assets/pc.gif)(#)
+	![pc](./assets/pc.gif)
 </span>
