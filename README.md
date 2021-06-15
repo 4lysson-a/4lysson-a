@@ -9,3 +9,9 @@
   <a href="https://www.instagram.com/4lysson_a/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=FD1D1D&color=FD1D1D" target="_blank"></a> 
 </div>
 -->
+
+<div align='center'>
+  
+        <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ly-a&layout=compact&langs_count=16&theme=gotham&include_all_commits=true&count_private=true"/>
+        
+</div>
