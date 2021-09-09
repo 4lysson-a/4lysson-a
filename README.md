@@ -15,12 +15,9 @@
 <details>
   <summary>:octocat: Overview Stats</summary>
    </br>
-  <img alt="ARRETdaniel's Github Stats" src="https://github-readme-stats.arretdaniel.vercel.app/api?username=4lysson-a&show_icons=true&hide_border=true&theme=radical" />
+  <img alt="ARRETdaniel's Github Stats" src="https://github-readme-stats.arretdaniel.vercel.app/api?username=4lysson-a&show_icons=true&hide_border=true&theme=radical&&include_all_commits=true" />
 
 </details>
-
-
-
 
 
 
