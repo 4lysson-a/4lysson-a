@@ -7,14 +7,14 @@
 <details>
   <summary>:octocat: Overview Stats</summary>
 
-  <img alt="ARRETdaniel's Github Stats" src="https://github-readme-stats.arretdaniel.vercel.app/api?username=4lysson-a&show_icons=true&hide_border=true" />
+  <img alt="ARRETdaniel's Github Stats" src="https://github-readme-stats.arretdaniel.vercel.app/api?username=4lysson-a&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
 <details>
   <summary>:computer: My most used programming languages</summary>
   </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lysson-a&layout=compact&langs_count=16&include_all_commits=true&count_private=true&hide=html,css,tex"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lysson-a&layout=compact&langs_count=16&include_all_commits=true&count_private=true&hide=html,css,tex&theme=radical&hide_border=true"/>
 </details>
 
 
