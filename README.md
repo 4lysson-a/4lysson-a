@@ -4,6 +4,14 @@
 </div>
 
 </br>
+
+<details>
+  <summary>:computer: Languages</summary>
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lysson-a&layout=compact&langs_count=16&include_all_commits=true&count_private=true&hide=html,css,tex&theme=radical&hide_border=true"/>
+</details>
+
+
 <details>
   <summary>:octocat: Overview Stats</summary>
    </br>
@@ -11,11 +19,6 @@
 
 </details>
 
-<details>
-  <summary>:computer: My most used programming languages</summary>
-  </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lysson-a&layout=compact&langs_count=16&include_all_commits=true&count_private=true&hide=html,css,tex&theme=radical&hide_border=true"/>
-</details>
 
 
 
