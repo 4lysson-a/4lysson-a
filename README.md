@@ -16,12 +16,21 @@
   <summary>:octocat: Overview Stats</summary>
    </br>
   <img alt="ARRETdaniel's Github Stats" src="https://github-readme-stats.arretdaniel.vercel.app/api?username=4lysson-a&show_icons=true&hide_border=true&theme=radical&&include_all_commits=true" />
-
 </details>
 
+<!--  
+
+<details>
+  <summary>:time: Wakatime</summary>
+   </br>
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=4lysson_a)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
+-->
 
 
-<!--
+
+<!-- Badges
 
 <div align='center'>
    <a href="https://www.linkedin.com/in/4lysson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
