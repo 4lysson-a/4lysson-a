@@ -8,7 +8,7 @@
 <details>
   <summary>:computer: Languages</summary>
   </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lysson-a&layout=compact&langs_count=16&include_all_commits=true&count_private=true&hide=html,css,tex&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lysson-a&layout=compact&langs_count=16&include_all_commits=true&count_private=true&hide=html,css,tex,hack&theme=radical&hide_border=true"/>
 </details>
 
 
