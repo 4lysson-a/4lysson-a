@@ -1,6 +1,8 @@
 
 <div align="center">
-        <img align="center" src="./assets/pc.gif"/>
+  <a href="https://www.alysson.dev" target="blank">
+      <img align="center" src="./assets/pc.gif"/>
+  </a>
 </div>
 
 </br>
@@ -15,7 +17,7 @@
 <details>
   <summary>:octocat: Overview Stats</summary>
    </br>
-  <img alt="ARRETdaniel's Github Stats" src="https://github-readme-stats.arretdaniel.vercel.app/api?username=4lysson-a&show_icons=true&hide_border=true&theme=radical&" />
+  <img alt="4lysson-a Github Stats" src="https://github-readme-stats.arretdaniel.vercel.app/api?username=4lysson-a&show_icons=true&hide_border=true&theme=radical&" />
 </details>
 
 <!--  
