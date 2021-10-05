@@ -8,18 +8,26 @@
 </br>
 
 <details>
-  <summary>:computer: ʟᴀɴɢᴜᴀɢᴇs</summary>
+  <summary>𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜</summary>
   </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lysson-a&layout=compact&langs_count=16&include_all_commits=true&count_private=true&hide=html,css,tex,hack&theme=radical&hide_border=true&line_height=10"/>
 </details>
 
 
 <details>
-  <summary>:octocat: ᴏᴠᴇʀᴠɪᴇᴡ sᴛᴀᴛs</summary>
+  <summary>𝚜𝚝𝚊𝚝𝚜</summary>
    </br>
   <img alt="4lysson-a Github Stats" src="https://github-readme-stats.arretdaniel.vercel.app/api?username=4lysson-a&show_icons=true&hide_border=true&theme=radical&count_private=true&line_height=30&include_all_commits=true" />
 </details>
 
+<details>
+  <summary>𝚑𝚎𝚕𝚕𝚘</summary>
+  </br>
+  <a href="mailto:me@alysson.dev">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a/>
+</details>
+  
 <!--  
 
 <details>
