@@ -3,7 +3,6 @@
   <a target="_blank" href="https://www.alysson.dev">
       <img align="center" src="./assets/pc.gif"/>
   </a>
-  <h1>Heyy i'm a javascript developer :p</h1>
 </div>
 
 </br>
