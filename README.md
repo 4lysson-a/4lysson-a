@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/4lysson/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.instagram.com/4lysson-a/">
+<a href="https://www.instagram.com/4lysson_a/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 </details>
