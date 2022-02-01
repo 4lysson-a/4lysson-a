@@ -23,7 +23,7 @@
 <details>
   <summary>𝚑𝚎𝚕𝚕𝚘</summary>
   </br>
-  <a href="mailto:me@alysson.dev">
+  <a href="mailto:me@4ly.dev">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <a/>
   <a href="https://www.linkedin.com/in/4lysson/">
