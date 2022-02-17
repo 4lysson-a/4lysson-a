@@ -10,14 +10,14 @@
 <details>
   <summary>𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜</summary>
   </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lysson-a&layout=compact&langs_count=16&include_all_commits=true&count_private=true&hide=html,css,tex,hack&theme=radical&hide_border=true&line_height=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lysson-a&layout=compact&langs_count=20&include_all_commits=true&count_private=true&hide=html,css,tex,hack&theme=radical&hide_border=true&line_height=20"/>
 </details>
 
 
 <details>
   <summary>𝚜𝚝𝚊𝚝𝚜</summary>
    </br>
-  <img alt="4lysson-a Github Stats" src="https://github-readme-stats.arretdaniel.vercel.app/api?username=4lysson-a&show_icons=true&hide_border=true&theme=radical&count_private=true&line_height=30&include_all_commits=true" />
+  <img alt="4lysson-a Github Stats" src="https://github-readme-stats.arretdaniel.vercel.app/api?username=4lysson-a&show_icons=true&hide_border=true&theme=radical&count_private=true&line_height=30&include_all_commits=false" />
 </details>
 
 <details>
@@ -33,18 +33,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 </details>
-  
-
-
-<details>
-  <summary>:time: Wakatime</summary>
-   </br>
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=4lysson_a)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-
-
-
-
+ 
 
 <!-- Badges
 
