@@ -34,7 +34,7 @@
 </a>
 </details>
   
-<!--  
+
 
 <details>
   <summary>:time: Wakatime</summary>
@@ -42,7 +42,7 @@
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=4lysson_a)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
--->
+
 
 
 
