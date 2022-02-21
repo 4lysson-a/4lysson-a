@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a target="_blank" href="https://www.alysson.dev">
+  <a target="_blank" href="https://alysson.dev/">
       <img align="center" src="./assets/pc.gif"/>
   </a>
 </div>
