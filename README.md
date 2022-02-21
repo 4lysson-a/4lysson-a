@@ -1,5 +1,5 @@
 
-<a target="_blank" href="https://alysson.dev/">
+<a target="_blank" href="https://alysson.dev/" style="user-select: none">
   <div align="center">
       <img align="center" src="./assets/pc.gif"/>
   </div>
