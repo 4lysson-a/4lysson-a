@@ -7,24 +7,23 @@
 
 </br>
 
-<details>
-  <summary>𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜</summary>
-  
-  </br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lysson-a&layout=compact&langs_count=20&include_all_commits=true&count_private=true&hide=html,css,tex,hack&hide_border=true&line_height=20"/>
-</details>
+<div style="display: flex">
+  <details>
+    <summary>𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜</summary>
+    
+    </br>
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lysson-a&layout=compact&langs_count=20&include_all_commits=true&count_private=true&hide=html,css,tex,hack&hide_border=true&line_height=20"/>
+  </details>
 
-
-<details>
-  <summary>𝚜𝚝𝚊𝚝𝚜</summary>
-   
-  </br>
-   
-  <img alt="4lysson-a Github Stats" src="https://github-readme-stats.arretdaniel.vercel.app/api?username=4lysson-a&show_icons=true&hide_border=true&count_private=true&line_height=30&include_all_commits=false" />
-</details>
-
-
+  <details>
+    <summary>𝚜𝚝𝚊𝚝𝚜</summary>
+    
+    </br>
+    
+    <img alt="4lysson-a Github Stats" src="https://github-readme-stats.arretdaniel.vercel.app/api?username=4lysson-a&show_icons=true&hide_border=true&count_private=true&line_height=30&include_all_commits=false" />
+  </details>
+</div>
 
 
 <!-- Social Midia -->
