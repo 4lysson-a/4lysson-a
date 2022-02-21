@@ -1,9 +1,9 @@
 
-<div align="center">
-  <a target="_blank" href="https://alysson.dev/">
+<a target="_blank" href="https://alysson.dev/">
+  <div align="center">
       <img align="center" src="./assets/pc.gif"/>
-  </a>
-</div>
+  </div>
+</a>
 
 </br>
 
