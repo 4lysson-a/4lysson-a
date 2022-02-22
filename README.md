@@ -1,11 +1,42 @@
+<div 
+  align="center" 
+  style="
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid black; 
+    margin: 0 100px">
+    <div 
+      style="
+       display: flex; 
+       gap: 1rem;
+       align-items: center;
+       text-align: left; 
+       justify-content: center"
+    >
+      <p
+        style="
+          font-size: 30pt;
+          font-weight: bold"
+          >hey</h1>
+      <div>
+        <img
+        src="./assets/cut.gif" 
+        style="width: 60px; height: 40px"
+        />
+      </div>
+    </div>
+</div>
 
 <a target="_blank" href="https://alysson.dev/" style="user-select: none">
   <div align="center">
-      <img align="center" src="./assets/pc.gif"/>
+      <img align="center" src="./assets/logo.png"/>
   </div>
 </a>
 
 </br>
+
+<!-- <img align="center" src="./assets/pc.gif"/> -->
 
 <details>
   <summary>𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜</summary>
