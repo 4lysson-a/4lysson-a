@@ -1,38 +1,8 @@
-<div 
-  align="center" 
-  style="
-    display: flex; 
-    justify-content: center;
-    align-items: center;
-    border-bottom: 1px solid black; 
-    margin: 0 100px">
-    <div 
-      style="
-       display: flex; 
-       gap: 1rem;
-       align-items: center;
-       text-align: left; 
-       justify-content: center"
-    >
-      <p
-        style="
-          font-size: 30pt;
-          font-weight: bold"
-          >hey</h1>
-      <div>
-        <img
-        src="./assets/cut.gif" 
-        style="width: 60px; height: 40px"
-        />
-      </div>
+  <a target="_blank" href="https://alysson.dev/" style="user-select: none">
+    <div align="center">
+      <img align="center" src="./assets/pc.gif"/>
     </div>
-</div>
-
-<a target="_blank" href="https://alysson.dev/" style="user-select: none">
-  <div align="center">
-      <img align="center" src="./assets/logo.png"/>
-  </div>
-</a>
+  </a>
 
 </br>
 
@@ -61,6 +31,13 @@
   
   </br>
   
+  <a target="_blank" href="https://alysson.dev/" style="user-select: none">
+    <div align="center">
+      <img align="center" src="./assets/logo.png"/>
+    </div>
+  </a>
+
+<div align="center" />
   <a href="mailto:me@4ly.dev">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <a/>
@@ -72,5 +49,6 @@
   <a href="https://www.instagram.com/4lysson_a/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+</div>
 </details>
  
