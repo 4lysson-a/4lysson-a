@@ -25,7 +25,7 @@
 </details>
 
 
-<!-- Social Midia -->
+<!-- Social Midiaa -->
 <details>
   <summary>𝚑𝚎𝚕𝚕𝚘</summary>
   
