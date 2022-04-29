@@ -1,8 +1,30 @@
+<!--
   <a target="_blank" href="https://alysson.dev/" style="user-select: none">
     <div align="center">
       <img align="center" src="./assets/bbbbb.gif"/>
     </div>
   </a>
+-->
+
+  <a target="_blank" href="https://alysson.dev/" style="user-select: none">
+    <div align="center">
+      <img align="center" src="./assets/logo.png"/>
+    </div>
+  </a>
+
+<div align="center" />
+  <a href="mailto:me@4ly.dev">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a/>
+  
+  <a href="https://linkedin.alysson.dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://instagram.alysson.dev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
 
 </br>
 
@@ -31,7 +53,7 @@
 </details>
 
 
-<!-- Social Midiaa -->
+<!-- Social Midiaa 
 <details>
   <summary>𝚑𝚎𝚕𝚕𝚘</summary>
   
@@ -57,4 +79,4 @@
   </a>
 </div>
 </details>
- 
+-->
