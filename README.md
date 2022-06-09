@@ -8,9 +8,11 @@
 
   <a target="_blank" href="https://alysson.dev/" style="user-select: none">
     <div align="center">
-      <img align="center" src="./assets/logo.png"/>
+      <img style="width: 200px; margin: 20px" align="center" src="./assets/logo-blue.svg"/>
     </div>
   </a>
+
+<br />
 
 <div align="center" />
   <a href="mailto:me@4ly.dev">
