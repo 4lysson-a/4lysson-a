@@ -24,7 +24,7 @@
 
 <div style="height: 100px;" align="center" />
   <a href="mailto:me@4ly.dev">
-    <img style="width: 350px; padding-top: -100px;" src="./assets/get_in_touch_idle.gif" />
+    <img style="width: 350px; padding-top: -100px;" src="./assets/get_in_touch_idle_solid.gif" />
   <a/>
 </div>
 
