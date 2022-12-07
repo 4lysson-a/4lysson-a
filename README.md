@@ -8,7 +8,7 @@
 
   <a target="_blank" href="https://alysson.dev/" style="user-select: none">
     <div align="center">
-      <img style="width: 200px; margin: 20px" align="center" src="./assets/logo-blue.svg"/>
+      <img style="width: 200px; margin: 20px" align="center" src="./assets/logo_idle.gif"/>
     </div>
   </a>
 
