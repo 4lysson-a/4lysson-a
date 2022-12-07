@@ -14,9 +14,17 @@
 
 <br />
 
+<!--
 <div align="center" />
   <a href="mailto:me@4ly.dev">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a/>
+</div>
+-->
+
+<div style="height: 100px;" align="center" />
+  <a href="mailto:me@4ly.dev">
+    <img src="./assets/get_in_touch_idle.gif" />
   <a/>
 </div>
 
