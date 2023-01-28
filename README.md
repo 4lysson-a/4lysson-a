@@ -9,7 +9,9 @@
 
   <a target="_blank" href="https://alysson.dev/" style="user-select: none">
     <div align="center">
+      
       ![./assets/get_in_touch_idle_solid.gif](https://raw.githubusercontent.com/4lysson-a/4lysson-a/main/assets/logo_idle.gif)
+    
     </div>
   </a>
 
