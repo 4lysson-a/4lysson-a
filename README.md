@@ -5,16 +5,12 @@
     </div>
   </a>
 -->
-![./assets/get_in_touch_idle_solid.gif](https://raw.githubusercontent.com/4lysson-a/4lysson-a/main/assets/logo_idle.gif)    
 
 
-<img align="center" src="https://raw.githubusercontent.com/4lysson-a/4lysson-a/main/assets/logo_idle.gif">
+<div align="center">
+  <img align="center" src="https://raw.githubusercontent.com/4lysson-a/4lysson-a/main/assets/logo_idle.gif">
+</div>
 
-  <a target="_blank" href="https://alysson.dev/" style="user-select: none">
-    <div align="center">
-      
-    </div>
-  </a>
 
 <br />
 
