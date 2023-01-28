@@ -28,6 +28,8 @@
   <a/>
 </div>
 
+[./assets/get_in_touch_idle_solid.gif](https://raw.githubusercontent.com/4lysson-a/4lysson-a/main/assets/logo_idle.gif)
+
 </br>
 
 <!-- aa <img align="center" src="./assets/pc.gif"/> -->
