@@ -5,7 +5,7 @@
 
 <br />
 
-<a href="mailto:me@4ly.dev">
+<a href="mailto:contato@alysson.dev">
   <div style="height: 100px;" align="center" />
     <img style="width: 350px; padding-top: -100px;" src="./assets/get_in_touch_idle_solid.gif" />
   </div>
