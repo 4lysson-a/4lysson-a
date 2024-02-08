@@ -14,20 +14,16 @@
 
 </br>
 
-<details>
-  <summary>𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜</summary>
-    
-  </br>
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lysson-a&layout=compact&langs_count=20&include_all_commits=true&count_private=true&hide=html,css,tex,hack&hide_border=true&line_height=20" />
-
-</details>
 
 <details>
   <summary>𝚜𝚝𝚊𝚝𝚜</summary>
     
   </br>
 
-  <a href="http://www.github.com/4lysson-a"><img src="https://github-readme-streak-stats.herokuapp.com/?user=4lysson-a&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  ![4lysson-a's Stats](https://github-readme-stats.vercel.app/api?username=4lysson-a&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=4lysson-a&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </details>
