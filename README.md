@@ -20,6 +20,8 @@
     
   </br>
 
+  [![](https://visitcount.itsvg.in/api?id=4lysson-a&label=Profile%20Views&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   ![4lysson-a's Stats](https://github-readme-stats.vercel.app/api?username=4lysson-a&theme=dark&show_icons=true&hide_border=true&count_private=true)
