@@ -21,6 +21,6 @@
 
   ![Top Langs](https://4lysson-readme-stats.vercel.app/api/top-langs/?username=4lysson-a\&layout=compact&count_private=true)
   
-  ![4lysson-a's Stats](https://4lysson-readme-stats.vercel.app/api?username=4lysson-a&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+  ![4lysson-a's Stats](https://4lysson-readme-stats.vercel.app/api?username=4lysson-a&show_icons=true&count_private=true&include_all_commits=true)
   
 </details>
