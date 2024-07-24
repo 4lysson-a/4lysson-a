@@ -16,8 +16,11 @@
   <summary>🧐 𝚜𝚝𝚊𝚝𝚜</summary>
   
   </br>
+
+  [![wakatime](https://wakatime.com/badge/user/d48abea3-b49b-4cf2-9e6f-9ee7ec9680c8.svg)](https://wakatime.com/@d48abea3-b49b-4cf2-9e6f-9ee7ec9680c8)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  ![4lysson-a's Stats](https://4lysson-readme-stats.vercel.app/api?username=4lysson-a&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
   
-  ![4lysson-a's Stats](https://github-readme-stats.vercel.app/api?username=4lysson-a&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  [![Harlok's WakaTime stats](https://4lysson-readme-stats.vercel.app/api/wakatime?username=4lysson_a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 </details>
